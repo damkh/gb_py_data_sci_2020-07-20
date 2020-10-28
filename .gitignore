@@ -5,3 +5,4 @@ creditcard.csv
 **/*.zip
 **/.zip
 course_project/others/*
+course_project/kaggle/*
